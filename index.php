@@ -2,7 +2,7 @@
 
 <?php
 include 'functions.php';
-echo "index";
+
 menu();
 ?>
 
@@ -16,6 +16,8 @@ menu();
 </head>
 
 <body>
+<script src=script.js type="text/javascript"></script>
+<div></div>
 <div id="container">
 <h1>Koshetshka</h1>
 <a href="https://www.google.ee/search?q=cat+picture&oq=cat+picture"><img src="img/koshka.jpeg" alt="Net kartinki" width="400" height="320" /></a>
